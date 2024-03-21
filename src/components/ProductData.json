@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"I phone 12 pro max",
+        "price":"1,30,000",
+        "image":"images/apple12.jpg"
+     },
+    {
+        "id":"2",
+        "name":"I phone 13 pro max",
+        "price":"1,50,000",
+        "image":"images/apple 13.jpg"
+    },
+    {
+        "id":"3",
+        "name":"I phone 14 pro max",
+        "price":"1,70,000",
+        "image":"images/apple 14.jpg"
+    }
+]
